@@ -1,6 +1,6 @@
 # Medical_Chatbot
 
-![medical_chatbot_image_in_landscape_mode](https://github.com/user-attachments/assets/792df5f2-5ed0-4bc7-9a99-9854d589f7cf)
+![Gemini_Generated_Image_7pxdtv7pxdtv7pxd](https://github.com/user-attachments/assets/65b45397-957a-402b-b572-b8f0ac3d8a5c)
 
 The "medical chatbot" project aims to develop an advanced AI-powered conversational system tailored for the healthcare sector. This innovative solution leverages the capabilities of Large Language Models (LLMs) in conjunction with Pinecone and LangChain technologies. The primary objectives of this chatbot include:
 
